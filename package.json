@@ -1,0 +1,26 @@
+{
+  "name": "karma-hacktimer",
+  "description": "HackTimer plugin for Karma",
+  "author": "Ivo Dlouhy <idlouhy@gmail.com>",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idlouhy/karma-hacktimer"
+  },
+  "bugs": {
+    "url": "http://github.com/idlouhy/karma-hacktimer/issues"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "karma",
+    "hacktimer",
+    "settimeout",
+    "setinterval",
+    "chrome"
+  ],
+  "dependencies": {
+    "hacktimer": "turuslan/HackTimer"
+  },
+  "private": true
+}
